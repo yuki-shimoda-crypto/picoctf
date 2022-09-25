@@ -1,0 +1,1 @@
+binwalk -e dolls.jpg

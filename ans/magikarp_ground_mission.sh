@@ -1,0 +1,1 @@
+ssh ctf-player@venus.picoctf.net -p 57569
